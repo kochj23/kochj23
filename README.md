@@ -97,4 +97,6 @@ macOS and iOS developer building native Apple platform apps with Swift and Swift
 
 ---
 
+All projects are personal work, created on my own time. They are not affiliated with, endorsed by, or representative of my employer.
+
 All projects are MIT licensed. Contributions and feedback welcome.
