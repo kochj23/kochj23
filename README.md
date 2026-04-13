@@ -15,37 +15,37 @@ macOS and iOS developer building native Apple platform apps with Swift and Swift
 
 | Project | Description | |
 |---------|-------------|---|
-| [**RsyncGUI**](https://github.com/kochj23/RsyncGUI) | Professional rsync GUI for macOS — modern replacement for discontinued RsyncOSX | [![Download](https://img.shields.io/github/v/release/kochj23/RsyncGUI?label=download)](https://github.com/kochj23/RsyncGUI/releases/latest) |
-| [**MLXCode**](https://github.com/kochj23/MLXCode) | Local Copilot alternative using Apple MLX — 100% private, no cloud | [![Download](https://img.shields.io/github/v/release/kochj23/MLXCode?label=download)](https://github.com/kochj23/MLXCode/releases/latest) |
-| [**MBox-Explorer**](https://github.com/kochj23/MBox-Explorer) | AI-powered email archive viewer with native RAG pipeline | [![Download](https://img.shields.io/github/v/release/kochj23/MBox-Explorer?label=download)](https://github.com/kochj23/MBox-Explorer/releases/latest) |
-| [**OneOnOne**](https://github.com/kochj23/OneOnOne) | AI meeting manager for engineering managers with iCloud sync | [![Download](https://img.shields.io/github/v/release/kochj23/OneOnOne?label=download)](https://github.com/kochj23/OneOnOne/releases/latest) |
-| [**Bastion**](https://github.com/kochj23/Bastion) | AI-powered penetration testing platform for macOS | [![Download](https://img.shields.io/github/v/release/kochj23/Bastion?label=download)](https://github.com/kochj23/Bastion/releases/latest) |
+| [**AIStudio**](https://github.com/kochj23/AIStudio) | Local AI media creation studio for macOS — image, video, and audio generation via ComfyUI, SwarmUI, and MLX | [![Stars](https://img.shields.io/github/stars/kochj23/AIStudio)](https://github.com/kochj23/AIStudio) [![Download](https://img.shields.io/github/v/release/kochj23/AIStudio?label=download)](https://github.com/kochj23/AIStudio/releases/latest) |
+| [**MLXCode**](https://github.com/kochj23/MLXCode) | Local Copilot alternative using Apple MLX — 100% private, no cloud | [![Stars](https://img.shields.io/github/stars/kochj23/MLXCode)](https://github.com/kochj23/MLXCode) [![Download](https://img.shields.io/github/v/release/kochj23/MLXCode?label=download)](https://github.com/kochj23/MLXCode/releases/latest) |
+| [**RsyncGUI**](https://github.com/kochj23/RsyncGUI) | Professional rsync GUI for macOS — modern replacement for discontinued RsyncOSX | [![Stars](https://img.shields.io/github/stars/kochj23/RsyncGUI)](https://github.com/kochj23/RsyncGUI) [![Download](https://img.shields.io/github/v/release/kochj23/RsyncGUI?label=download)](https://github.com/kochj23/RsyncGUI/releases/latest) |
+| [**NMAPScanner**](https://github.com/kochj23/NMAPScanner) | macOS network scanner with HomeKit discovery, vulnerability scanning, and port detection | [![Stars](https://img.shields.io/github/stars/kochj23/NMAPScanner)](https://github.com/kochj23/NMAPScanner) [![Download](https://img.shields.io/github/v/release/kochj23/NMAPScanner?label=download)](https://github.com/kochj23/NMAPScanner/releases/latest) |
+| [**MBox-Explorer**](https://github.com/kochj23/MBox-Explorer) | AI-powered email archive viewer with native RAG pipeline | [![Stars](https://img.shields.io/github/stars/kochj23/MBox-Explorer)](https://github.com/kochj23/MBox-Explorer) [![Download](https://img.shields.io/github/v/release/kochj23/MBox-Explorer?label=download)](https://github.com/kochj23/MBox-Explorer/releases/latest) |
+| [**Bastion**](https://github.com/kochj23/Bastion) | AI-powered penetration testing platform for macOS | [![Stars](https://img.shields.io/github/stars/kochj23/Bastion)](https://github.com/kochj23/Bastion) [![Download](https://img.shields.io/github/v/release/kochj23/Bastion?label=download)](https://github.com/kochj23/Bastion/releases/latest) |
 
 ---
 
 ## All Projects
 
-### Developer Tools
+### AI & Local ML
+[AIStudio](https://github.com/kochj23/AIStudio) ·
 [MLXCode](https://github.com/kochj23/MLXCode) ·
+[nova](https://github.com/kochj23/nova)
+
+### Developer Tools
 [JiraSummary](https://github.com/kochj23/JiraSummary) ·
 [ExcelExplorer](https://github.com/kochj23/ExcelExplorer) ·
 [URL-Analysis](https://github.com/kochj23/URL-Analysis) ·
 [icon-creator](https://github.com/kochj23/icon-creator) ·
-[TopGUI](https://github.com/kochj23/TopGUI)
+[TopGUI](https://github.com/kochj23/TopGUI) ·
+[homebrew-apps](https://github.com/kochj23/homebrew-apps)
 
 ### Email & Communication
 [MBox-Explorer](https://github.com/kochj23/MBox-Explorer) ·
 [MailSummary](https://github.com/kochj23/MailSummary) ·
-[MBOXExplorer](https://github.com/kochj23/MBOXExplorer) ·
 [MboxChatCLI](https://github.com/kochj23/MboxChatCLI)
 
 ### Smart Home (HomeKit)
-[HomeKitTV](https://github.com/kochj23/HomeKitTV) ·
-[HomekitControl](https://github.com/kochj23/HomekitControl) ·
-[HomeKitAdopter](https://github.com/kochj23/HomeKitAdopter) ·
-[HomeKitAssistant](https://github.com/kochj23/HomeKitAssistant) ·
-[HomeKitRestore](https://github.com/kochj23/HomeKitRestore) ·
-[SceneFixer](https://github.com/kochj23/SceneFixer)
+[HomekitControl](https://github.com/kochj23/HomekitControl)
 
 ### News & Media
 [NewsSummary](https://github.com/kochj23/NewsSummary) ·
@@ -64,8 +64,7 @@ macOS and iOS developer building native Apple platform apps with Swift and Swift
 ### Dashboards & Monitoring
 [DashboardScreensaver](https://github.com/kochj23/DashboardScreensaver) ·
 [DashboardTV](https://github.com/kochj23/DashboardTV) ·
-[rtsp-rotator](https://github.com/kochj23/rtsp-rotator) ·
-[StreamRotator](https://github.com/kochj23/StreamRotator)
+[rtsp-rotator](https://github.com/kochj23/rtsp-rotator)
 
 ### Games & Entertainment
 [Blompie](https://github.com/kochj23/Blompie) ·
@@ -75,6 +74,9 @@ macOS and iOS developer building native Apple platform apps with Swift and Swift
 
 ### Meetings & Productivity
 [OneOnOne](https://github.com/kochj23/OneOnOne)
+
+### Other
+[end-of-life-checklist](https://github.com/kochj23/end-of-life-checklist)
 
 ---
 
@@ -93,7 +95,7 @@ macOS and iOS developer building native Apple platform apps with Swift and Swift
 - **Apple Platform Native** — SwiftUI-first, Apple Silicon optimized, no Electron
 - **Privacy-First** — Your data stays on your device
 - **Developer Tools** — Code assistants, file sync, network analysis
-- **Smart Home** — 6 HomeKit apps for device management, automation, and diagnostics
+- **Smart Home** — HomeKit device management, automation, and diagnostics
 
 ---
 
